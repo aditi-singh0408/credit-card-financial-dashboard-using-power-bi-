@@ -1,0 +1,49 @@
+Credit Card Transaction & Customer Analytics Dashboard
+Project Overview
+This project uses Microsoft Power BI to explore credit card transaction performance and customer characteristics 
+through an interactive business intelligence dashboard.
+The report is organized into two main areas: transaction analytics and customer analytics. It brings together 
+transaction-related measures and customer attributes to help users explore business performance from multiple perspectives.
+
+#Business Objective
+The objective is to understand credit card business performance, identify meaningful transaction and customer patterns, and support evidence-based business decisions.
+#Business Questions
+#Transaction Analytics
+- How do revenue and transaction activity change over time?
+- How do revenue and transaction volume vary across quarters?
+- How do card categories contribute to revenue, transaction amounts, and interest earned?
+- How does transaction activity differ by expense type and chip usage?
+#Customer Analytics
+- How does revenue vary across customer occupations and education levels?
+- What patterns appear across income groups, age groups, and gender?
+- How do customer characteristics relate to revenue performance?
+- How do customer segments differ across available demographic attributes?
+#Dashboard Pages
+1. Credit Card Transaction
+Explores transaction performance through revenue, transaction amount, transaction volume,
+interest earned, quarterly trends, expense types, card categories, and chip usage.
+#2. Customer Analytics
+Explores customer characteristics and revenue patterns across occupation, education, 
+income group, gender, age group, state, marital status, and other available demographic fields.
+
+## Tools and Technologies
+- Microsoft Power BI
+- Data visualization and business intelligence
+- Customer and transaction analysis
+Add Power Query, DAX, data modeling, or other tools to this list only after confirming that you used them in the project.
+
+#Key Findings
+*To be completed after validating the dashboard results.*
+Document three to five findings using actual values, relevant time periods, and comparisons.
+Distinguish observed patterns from possible explanations.
+
+#Business Recommendations
+*To be completed after reviewing the validated findings.*
+Recommendations should follow from the evidence. Explain what the business could investigate or improve,
+and identify any additional data needed to validate a proposed action.
+
+
+
+
+
+
